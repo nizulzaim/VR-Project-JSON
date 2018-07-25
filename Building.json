@@ -3,6 +3,18 @@
         "Id": 1,
         "assetId": 1,
         "Name" : "Menara Exxon Mobil",
-        ImageUrl: "http://www.corporateoffice.my/sites/default/files/imagecache/property_watermark/exxon-mobile_KL.jpg"
-    }
+        "ImageUrl": "http://www.corporateoffice.my/sites/default/files/imagecache/property_watermark/exxon-mobile_KL.jpg"
+    },
+    {
+        "Id": 2,
+        "assetId": 2,
+        "Name" : "Office",
+        "ImageUrl": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiQ6vav3rncAhWLM48KHbORBrwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.thestar.com.my%2Fbusiness%2Fbusiness-news%2F2015%2F01%2F26%2Fsebbrunei-power-deal-negotiations-on-exports-of-renewable-energy-to-start-soon%2F&psig=AOvVaw2aPpblJrA7TBWpM9ClVa0t&ust=1532590417907430"
+    },
+    {
+        "Id": 3,
+        "assetId": 1,
+        "Name" : "KLCC Tower 1",
+        "ImageUrl": "http://www.corporateoffice.my/sites/default/files/imagecache/property_watermark/exxon-mobile_KL.jpg"
+    },
 ]
