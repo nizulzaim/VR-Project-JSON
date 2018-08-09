@@ -3,7 +3,7 @@
         "Id": 1,
         "assetId": 1,
         "Name" : "Menara Exxon Mobil",
-        "ImageUrl": "http://www.corporateoffice.my/sites/default/files/imagecache/property_watermark/exxon-mobile_KL.jpg"
+        "ImageUrl": "https://i.imgur.com/1owSWFY.jpg"
     },
     {
         "Id": 2,
@@ -15,6 +15,6 @@
         "Id": 3,
         "assetId": 1,
         "Name" : "KLCC Tower 1",
-        "ImageUrl": "http://www.corporateoffice.my/sites/default/files/imagecache/property_watermark/exxon-mobile_KL.jpg"
+        "ImageUrl": "https://i.imgur.com/1owSWFY.jpg"
     }
 ]
